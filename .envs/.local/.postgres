@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=shigoto
+POSTGRES_USER=jcAyBgZNrQpWxRjhNPtcjoccbBjBjmWf
+POSTGRES_PASSWORD=mHyiQaGnzvHDgBCUC3ZKM9ncYJ7EQvWt1PbLxCLpKuNOcmHZEGn0FaXGI2NZNr81
